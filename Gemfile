@@ -2,5 +2,5 @@
 source "https://rubygems.org"
 
 gem 'pry' # for debugging
-gem `gem 'pg', '~> 0.21.0'`
+gem 'pg', '~> 0.21.0'
 gem 'activerecord', '4.2.11'
